@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html lang="en">
+	
+	<head>
+		<meta charset="utf-8">
+		<meta content="width=device-width, initial-scale=1.0" name="viewport">
+		
+		<title>Inthere</title>
+		<meta content="" name="description">
+		<meta content="" name="keywords">
+		
+		<!-- Favicons -->
+		<link href="assets/img/favicon.png" rel="icon">
+		<link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+		
+		<!-- Google Fonts -->
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+		
+		<!-- Vendor CSS Files -->
+		<link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+		<link href="assets/vendor/aos/aos.css" rel="stylesheet">
+		<link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		<link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+		<link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+		<link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+		<link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+		<link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+		
+		<!-- Template Main CSS File -->
+		<link href="assets/css/style.css" rel="stylesheet">
+		
+		<!-- =======================================================
+			* Template Name: Selecao - v4.7.0
+			* Template URL: https://bootstrapmade.com/selecao-bootstrap-template/
+			* Author: BootstrapMade.com
+			* License: https://bootstrapmade.com/license/
+		======================================================== -->
+	</head>
+	
+	<body>
+		
+		<!-- ======= Header ======= -->
+		<header id="header" class="fixed-top d-flex align-items-center  header-transparent ">
+			<div class="container d-flex align-items-center justify-content-between">
+				
+				<div class="logo">
+					<h1><a href="index.html">Inthere</a></h1>
+					<!-- Uncomment below if you prefer to use an image logo -->
+					<!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+				</div>
+				
+				<nav id="navbar" class="navbar">
+					<ul>
+						<li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+						<li><a class="nav-link scrollto" href="#intro">Intro</a></li>
+						<li><a class="nav-link scrollto" href="#services">Services</a></li>
+						<li><a class="nav-link scrollto " href="#agenda">Agenda</a></li>
+						<li><a class="nav-link scrollto " href="#aim">Aim</a></li>
+						<li><a class="nav-link scrollto" href="#usp">USP</a></li>
+						<li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+					</ul>
+					<i class="bi bi-list mobile-nav-toggle"></i>
+				</nav><!-- .navbar -->
+				
+			</div>
+		</header><!-- End Header -->
+		
+		<!-- ======= Hero Section ======= -->
+		<section id="hero" class="d-flex flex-column justify-content-end align-items-center">
+			<div id="heroCarousel" data-bs-interval="5000" class="container carousel carousel-fade" data-bs-ride="carousel">
+				
+				<!-- Slide 1 -->
+				<div class="carousel-item active">
+					<div style="background-image: url('https://placeimg.com/1200/600/any');width: 100%;height: 500px;">
+						<div class="carousel-container">
+							<div class="herotxtbanner">
+								<h2 class="animate__animated animate__fadeInDown">Welcome to <span>Inthere</span></h2>
+								<p class="animate__animated fanimate__adeInUp">CREATE</p>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- Slide 2 -->
+				<div class="carousel-item">
+					<div style="background-image: url('https://placeimg.com/1200/600/any');width: 100%;height: 500px;">
+						<div class="carousel-container">
+							<div class="herotxtbanner">
+								<h2 class="animate__animated animate__fadeInDown">PERFORM</h2>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- Slide 3 -->
+				<div class="carousel-item">
+					<div style="background-image: url('https://placeimg.com/1200/600/any');width: 100%;height: 500px;">
+						<div class="carousel-container">
+							<div class="herotxtbanner">
+								<h2 class="animate__animated animate__fadeInDown">INTROSPECT</h2>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- Slide 4 -->
+				<div class="carousel-item">
+					<div style="background-image: url('https://placeimg.com/1200/600/any');width: 100%;height: 500px;">
+						<div class="carousel-container">
+							<div class="herotxtbanner">
+								<h2 class="animate__animated animate__fadeInDown">PROCESS</h2>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- Slide 5 -->
+				<div class="carousel-item">
+					<div style="background-image: url('https://placeimg.com/1200/600/any');width: 100%;height: 500px;">
+						<div class="carousel-container">
+							<div class="herotxtbanner">
+								<h2 class="animate__animated animate__fadeInDown">or JUST BE…!</h2>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+					<span class="carousel-control-prev-icon bx bx-chevron-left" aria-hidden="true"></span>
+				</a>
+				
+				<a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
+					<span class="carousel-control-next-icon bx bx-chevron-right" aria-hidden="true"></span>
+				</a>
+				
+			</div>
+			
+			<svg class="hero-waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28 " preserveAspectRatio="none">
+				<defs>
+					<path id="wave-path" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z">
+					</defs>
+					<g class="wave1">
+						<use xlink:href="#wave-path" x="50" y="3" fill="rgba(255,255,255, .1)">
+						</g>
+						<g class="wave2">
+							<use xlink:href="#wave-path" x="50" y="0" fill="rgba(255,255,255, .2)">
+							</g>
+							<g class="wave3">
+								<use xlink:href="#wave-path" x="50" y="9" fill="#fff">
+								</g>
+							</svg>
+							
+						</section><!-- End Hero -->
+						
+						<main id="main">
+							
+							<!-- ======= About Section ======= -->
+							<section id="intro" class="about">
+								<div class="container">
+									
+									<div class="section-title" data-aos="zoom-out">
+										<h2>Inthere</h2>
+										<p>Intro</p>
+									</div>
+									
+									<div class="row content" data-aos="fade-up">
+										<div class="col-lg-12">
+											<p>
+												IN THERE facilitates Space, Ambience, Amenities, and Resources to help people indulge in the various forms of Art and Meditation.
+											</p>
+											<p>Intricately assembled to alleviate the outer commotion and the inner turmoil, IN THERE is all set to become India's first-ever Soul Gym of its kind.  </p>
+											
+										</div>
+									</div>
+									
+								</div>
+							</section><!-- End About Section -->
+							
+							<!-- ======= Features Section ======= -->
+							<section id="features" class="features">
+								<div class="container">
+									
+									<ul class="nav nav-tabs row d-flex">
+										<li class="nav-item col-3" data-aos="zoom-in">
+											<a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">
+												<h4 class="d-none d-lg-block">SPACE</h4>
+											</a>
+										</li>
+										<li class="nav-item col-3" data-aos="zoom-in" data-aos-delay="100">
+											<a class="nav-link" data-bs-toggle="tab" href="#tab-2">
+												<h4 class="d-none d-lg-block">AMBIENCE</h4>
+											</a>
+										</li>
+										<li class="nav-item col-3" data-aos="zoom-in" data-aos-delay="200">
+											<a class="nav-link" data-bs-toggle="tab" href="#tab-3">
+												<h4 class="d-none d-lg-block">AMENITIES</h4>
+											</a>
+										</li>
+										<li class="nav-item col-3" data-aos="zoom-in" data-aos-delay="300">
+											<a class="nav-link" data-bs-toggle="tab" href="#tab-4">
+												<h4 class="d-none d-lg-block">RESOURCES</h4>
+											</a>
+										</li>
+									</ul>
+									
+									<div class="tab-content" data-aos="fade-up">
+										<div class="tab-pane active show" id="tab-1">
+											<div class="row">
+												<h3>A Glass Studio</h3>
+												<div class="col-lg-12 order-2 order-lg-1 mt-3 mt-lg-0">
+													
+													<img src="https://placeimg.com/1200/400/any" alt="" class="img-fluid">
+												</div>
+											</div>
+										</div>
+										<div class="tab-pane" id="tab-2">
+											<div class="row">
+												<h3>A Hued Studio</h3>
+												<div class="col-lg-12 order-2 order-lg-1 mt-3 mt-lg-0">
+													
+													<img src="https://placeimg.com/640/400/any" alt="" class="img-fluid">
+												</div>
+											</div>
+										</div>
+										<div class="tab-pane" id="tab-3">
+											<div class="row">
+												<h3>Painting Gear</h3>
+												<div class="col-lg-12 order-2 order-lg-1 mt-3 mt-lg-0">
+													
+													<img src="https://placeimg.com/640/400/any" alt="" class="img-fluid">
+												</div>
+											</div>
+										</div>
+										<div class="tab-pane" id="tab-4">
+											<div class="row">
+												<h3>Psychologist</h3>
+												<div class="col-lg-12 order-2 order-lg-1 mt-3 mt-lg-0">
+													
+													<img src="https://placeimg.com/640/400/any" alt="" class="img-fluid">
+												</div>
+											</div>
+										</div>
+									</div>
+									
+								</div>
+							</section><!-- End Features Section -->
+							
+							
+							
+							<!-- ======= Services Section ======= -->
+							<section id="services" class="services">
+								<div class="container">
+									
+									<div class="section-title" data-aos="zoom-out">
+										<h2>Inthere</h2>
+										<p>Services</p>
+									</div>
+									
+									<div class="row content" data-aos="fade-up">
+										<div class="col-lg-12">
+											<p>
+											IN THERE is where you find the positivity and the energy to pamper and mend your inner selves. Our services include a Painting Studio, Karaoke Room, Dance Studio, Jam Room, Reading Zone, Counselling Den, and Meditation Room. We believe that the world has much healing to do and that Art and Meditation simplify this process.</p>
+											
+											
+										</div>
+									</div>
+									
+									<div class="row">
+										<div class="col-lg-4 col-md-6">
+											<div class="icon-box" data-aos="zoom-in-left">
+												<div style="background-image: url('https://placeimg.com/640/500/any');width: 100%;height: 400px;">
+													<h4 class="title" style="background-color: #fff;width: auto;padding: 20px;margin: 10px 0 10px 0;">
+													<a href="">PAINTING STUDIO </a></h4>
+												</div>
+											</div>
+										</div>
+										<div class="col-lg-4 col-md-6 mt-5 mt-md-0">
+											<div class="icon-box" data-aos="zoom-in-left" data-aos-delay="100">
+												<div style="background-image: url('https://placeimg.com/640/500/any');width: 100%;height: 400px;">
+													<h4 class="title" style="background-color: #fff;width: auto;padding: 20px;margin: 10px 0 10px 0;">
+													<a href="">DANCE STUDIO </a></h4>
+												</div>
+											</div>
+										</div>
+										
+										<div class="col-lg-4 col-md-6 mt-5 mt-lg-0 ">
+											<div class="icon-box" data-aos="zoom-in-left" data-aos-delay="200">
+												<div style="background-image: url('https://placeimg.com/640/500/any');width: 100%;height: 400px;">
+													<h4 class="title" style="background-color: #fff;width: auto;padding: 20px;margin: 10px 0 10px 0;">
+													<a href="">KARAOKE ROOM </a></h4>
+												</div>
+											</div>
+										</div>
+										<div class="col-lg-4 col-md-6 mt-5">
+											<div class="icon-box" data-aos="zoom-in-left" data-aos-delay="300">
+												<div style="background-image: url('https://placeimg.com/640/500/any');width: 100%;height: 400px;">
+													<h4 class="title" style="background-color: #fff;width: auto;padding: 20px;margin: 10px 0 10px 0;">
+													<a href="">JAM ROOM</a></h4>
+												</div>
+											</div>
+										</div>
+										
+										<div class="col-lg-4 col-md-6 mt-5">
+											<div class="icon-box" data-aos="zoom-in-left" data-aos-delay="400">
+												<div style="background-image: url('https://placeimg.com/640/500/any');width: 100%;height: 400px;">
+													<h4 class="title" style="background-color: #fff;width: auto;padding: 20px;margin: 10px 0 10px 0;">
+													<a href="">READING ZONE</a></h4>
+												</div>
+											</div>
+										</div>
+										<div class="col-lg-4 col-md-6 mt-5">
+											<div class="icon-box" data-aos="zoom-in-left" data-aos-delay="500">
+												<div style="background-image: url('https://placeimg.com/640/500/any');width: 100%;height: 400px;">
+													<h4 class="title" style="background-color: #fff;width: auto;padding: 20px;margin: 10px 0 10px 0;">
+													<a href="">MEDITATION ROOM</a></h4>
+												</div>
+											</div>
+										</div>
+									</div>
+									
+								</div>
+							</section><!-- End Services Section -->
+							
+							<!-- ======= Team Section ======= -->
+						<section id="agenda" class="team">
+							<div class="container">
+								
+								<div class="section-title" data-aos="zoom-out">
+									<h2>Inthere</h2>
+									<p>AGENDA</p>
+								</div>
+								
+								<div class="row content" data-aos="fade-up">
+									<div class="col-lg-12">
+										<p>IN THERE is an Open Art and Meditation Studio. Our activities here are not predefined. We do not teach, host competitions or arrange exhibitions and neither do we decide the purpose of your visit. Our Agenda is simple, Relaxation, Recreation, and Mental Peace.
+
+											
+										</p>
+										
+									</div>
+								</div>
+								
+								
+								<div class="row">
+									
+									<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+										<div class="member" data-aos="fade-up">
+											<div class="member-img">
+												<img src="https://placeimg.com/400/400/any" class="img-fluid" alt="">
+												
+											</div>
+											<div class="member-info">
+												<h4>RELAXATION</h4>
+											</div>
+										</div>
+									</div>
+									
+									<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+										<div class="member" data-aos="fade-up" data-aos-delay="100">
+											<div class="member-img">
+												<img src="https://placeimg.com/400/400/any" class="img-fluid" alt="">
+												
+											</div>
+											<div class="member-info">
+												<h4>RECREATION</h4>
+											</div>
+										</div>
+									</div>
+									
+									<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+										<div class="member" data-aos="fade-up" data-aos-delay="200">
+											<div class="member-img">
+												<img src="https://placeimg.com/400/400/any" class="img-fluid" alt="">
+											</div>
+											<div class="member-info">
+												<h4>MENTAL PEACE</h4>
+											</div>
+										</div>
+									</div>
+									
+									
+								</div>
+								
+							</div>
+						</section><!-- End Team Section -->
+							
+							<!-- ======= Team Section ======= -->
+							<section id="aim" class="team">
+								<div class="container">
+									
+									<div class="section-title" data-aos="zoom-out">
+										<h2>Inthere</h2>
+										<p>Aim</p>
+									</div>
+									
+									<div class="row content" data-aos="fade-up">
+										<div class="col-lg-12">
+											<p>
+												IN THERE believes that the best way to liberate Mental Health from the stigma, inhibitions, and taboos is to bring it out in the open!
+											</p>
+											<p>We aim to make Mental Health Aid More Accessible, Approachable, and Affordable. Our one-step toward prioritizing Mental Fitness would etch directions for future generations.
+											</p>
+											
+										</div>
+									</div>
+									
+									
+									<div class="row">
+										
+										<div class="col-lg-12 col-md-6 d-flex align-items-stretch">
+											
+											
+											<div style="background-image: url('https://placeimg.com/1200/600/any');width: 100%;height: 500px;">
+												<!--<img src="https://placeimg.com/1400/400/any" class="img-fluid" alt="">-->
+												<div class="carousel-container" style="width: 657px;margin-left: 50%;margin-top: 31%;">
+													<div class="herotxtbanner">
+													<h5 class="animate__animated animate__fadeInDown" style="color: #fff;
+font-weight: bold;">To make Mental Health Aid More Accessible, Approachable, and Affordable.</span></h2>
+													
+												</div>
+											</div>
+										</div>
+										
+										
+										
+									</div>
+									
+									
+									
+									
+								</div>
+								
+							</div>
+						</section><!-- End Team Section -->
+						
+						<!-- ======= Team Section ======= -->
+						<section id="usp" class="team">
+							<div class="container">
+								
+								<div class="section-title" data-aos="zoom-out">
+									<h2>Inthere</h2>
+									<p>USP</p>
+								</div>
+								
+								<div class="row content" data-aos="fade-up">
+									<div class="col-lg-12">
+										<p>
+											IN THERE is a Convertible Studio with Transitioning Ambience.
+										</p>
+										<p>Embracing the new-age techniques, our team has conceptualized a one-room solution to all our services offered. Therefore, making us a Space-Saving, Cost-Effective, and Innovative solution in the given field.
+											
+										</p>
+										
+									</div>
+								</div>
+								
+								
+								<div class="row">
+									
+									<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+										<div class="member" data-aos="fade-up">
+											<div class="member-img">
+												<img src="https://placeimg.com/400/400/any" class="img-fluid" alt="">
+												
+											</div>
+											<div class="member-info">
+												<h4>INNOVATIVE</h4>
+											</div>
+										</div>
+									</div>
+									
+									<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+										<div class="member" data-aos="fade-up" data-aos-delay="100">
+											<div class="member-img">
+												<img src="https://placeimg.com/400/400/any" class="img-fluid" alt="">
+												
+											</div>
+											<div class="member-info">
+												<h4>SPACE-SAVING</h4>
+											</div>
+										</div>
+									</div>
+									
+									<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+										<div class="member" data-aos="fade-up" data-aos-delay="200">
+											<div class="member-img">
+												<img src="https://placeimg.com/400/400/any" class="img-fluid" alt="">
+											</div>
+											<div class="member-info">
+												<h4>COST-EFFECTIVE</h4>
+											</div>
+										</div>
+									</div>
+									
+									
+								</div>
+								
+							</div>
+						</section><!-- End Team Section -->
+						
+						<!-- ======= Testimonials Section ======= -->
+						<section id="testimonials" class="testimonials">
+							<div class="container">
+								
+								<div class="section-title" data-aos="zoom-out">
+									<h2>Inthere</h2>
+									<p>Testimonials</p>
+								</div>
+								
+								<div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+									<div class="swiper-wrapper">
+										
+										<div class="swiper-slide">
+											<div class="testimonial-item">
+												<p>
+													<i class="bx bxs-quote-alt-left quote-icon-left"></i>
+													Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+													<i class="bx bxs-quote-alt-right quote-icon-right"></i>
+												</p>
+												<img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+												<h3>Saul Goodman</h3>
+												<h4>Ceo &amp; Founder</h4>
+											</div>
+										</div><!-- End testimonial item -->
+										
+										<div class="swiper-slide">
+											<div class="testimonial-item">
+												<p>
+													<i class="bx bxs-quote-alt-left quote-icon-left"></i>
+													Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+													<i class="bx bxs-quote-alt-right quote-icon-right"></i>
+												</p>
+												<img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+												<h3>Sara Wilsson</h3>
+												<h4>Designer</h4>
+											</div>
+										</div><!-- End testimonial item -->
+										
+										<div class="swiper-slide">
+											<div class="testimonial-item">
+												<p>
+													<i class="bx bxs-quote-alt-left quote-icon-left"></i>
+													Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+													<i class="bx bxs-quote-alt-right quote-icon-right"></i>
+												</p>
+												<img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+												<h3>Jena Karlis</h3>
+												<h4>Store Owner</h4>
+											</div>
+										</div><!-- End testimonial item -->
+										
+										<div class="swiper-slide">
+											<div class="testimonial-item">
+												<p>
+													<i class="bx bxs-quote-alt-left quote-icon-left"></i>
+													Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+													<i class="bx bxs-quote-alt-right quote-icon-right"></i>
+												</p>
+												<img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+												<h3>Matt Brandon</h3>
+												<h4>Freelancer</h4>
+											</div>
+										</div><!-- End testimonial item -->
+										
+										<div class="swiper-slide">
+											<div class="testimonial-item">
+												<p>
+													<i class="bx bxs-quote-alt-left quote-icon-left"></i>
+													Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+													<i class="bx bxs-quote-alt-right quote-icon-right"></i>
+												</p>
+												<img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+												<h3>John Larson</h3>
+												<h4>Entrepreneur</h4>
+											</div>
+										</div><!-- End testimonial item -->
+										
+									</div>
+									<div class="swiper-pagination"></div>
+								</div>
+								
+							</div>
+						</section><!-- End Testimonials Section -->
+						
+						
+						<!-- ======= Services Section ======= -->
+							<section id="services" class="services">
+								<div class="container">
+									
+									<div class="section-title" data-aos="zoom-out">
+										<h2>Inthere</h2>
+										<p>Services</p>
+									</div>
+									
+									<div class="row content" data-aos="fade-up">
+										<div class="col-lg-12">
+											<p>
+											IN THERE is where you find the positivity and the energy to pamper and mend your inner selves. Our services include a Painting Studio, Karaoke Room, Dance Studio, Jam Room, Reading Zone, Counselling Den, and Meditation Room. We believe that the world has much healing to do and that Art and Meditation simplify this process.</p>
+											
+											
+										</div>
+									</div>
+									
+									<div class="row">
+										<div class="col-lg-4 col-md-6">
+											<div class="icon-box" data-aos="zoom-in-left">
+												<div style="background-image: url('https://placeimg.com/640/500/any');width: 100%;height: 400px;">
+													<h4 class="title" style="background-color: #fff;width: auto;padding: 20px;margin: 10px 0 10px 0;">
+													<a href="">PAINTING STUDIO </a></h4>
+												</div>
+											</div>
+										</div>
+										<div class="col-lg-4 col-md-6 mt-5 mt-md-0">
+											<div class="icon-box" data-aos="zoom-in-left" data-aos-delay="100">
+												<div style="background-image: url('https://placeimg.com/640/500/any');width: 100%;height: 400px;">
+													<h4 class="title" style="background-color: #fff;width: auto;padding: 20px;margin: 10px 0 10px 0;">
+													<a href="">DANCE STUDIO </a></h4>
+												</div>
+											</div>
+										</div>
+										
+										<div class="col-lg-4 col-md-6 mt-5 mt-lg-0 ">
+											<div class="icon-box" data-aos="zoom-in-left" data-aos-delay="200">
+												<div style="background-image: url('https://placeimg.com/640/500/any');width: 100%;height: 400px;">
+													<h4 class="title" style="background-color: #fff;width: auto;padding: 20px;margin: 10px 0 10px 0;">
+													<a href="">KARAOKE ROOM </a></h4>
+												</div>
+											</div>
+										</div>
+										<div class="col-lg-4 col-md-6 mt-5">
+											<div class="icon-box" data-aos="zoom-in-left" data-aos-delay="300">
+												<div style="background-image: url('https://placeimg.com/640/500/any');width: 100%;height: 400px;">
+													<h4 class="title" style="background-color: #fff;width: auto;padding: 20px;margin: 10px 0 10px 0;">
+													<a href="">JAM ROOM</a></h4>
+												</div>
+											</div>
+										</div>
+										
+										<div class="col-lg-4 col-md-6 mt-5">
+											<div class="icon-box" data-aos="zoom-in-left" data-aos-delay="400">
+												<div style="background-image: url('https://placeimg.com/640/500/any');width: 100%;height: 400px;">
+													<h4 class="title" style="background-color: #fff;width: auto;padding: 20px;margin: 10px 0 10px 0;">
+													<a href="">READING ZONE</a></h4>
+												</div>
+											</div>
+										</div>
+										<div class="col-lg-4 col-md-6 mt-5">
+											<div class="icon-box" data-aos="zoom-in-left" data-aos-delay="500">
+												<div style="background-image: url('https://placeimg.com/640/500/any');width: 100%;height: 400px;">
+													<h4 class="title" style="background-color: #fff;width: auto;padding: 20px;margin: 10px 0 10px 0;">
+													<a href="">MEDITATION ROOM</a></h4>
+												</div>
+											</div>
+										</div>
+									</div>
+									
+								</div>
+							</section><!-- End Services Section -->
+						
+						
+						<!-- ======= Cta Section ======= -->
+						<section id="cta" class="cta">
+							<div class="container">
+								
+								<div class="row" data-aos="zoom-out">
+									<div class="col-lg-9 text-center text-lg-start">
+										<h3>Note</h3>
+										<p> Well aware of the fragility and the versatility of the issue addressed, this project has the margin to generate and regenerate as it adapts to the nature of the subject. Expert guidance, extensive feedback, and continuous R&D would form an accord with the plans and operational structure at IN THERE. </p>
+										<p>Although the activities offered are subject to individual perceptions, they are not curative measures and at no point act as a substitute for medical assistance.</p>
+									</div>
+									<div class="col-lg-3 cta-btn-container text-center">
+										<a class="cta-btn align-middle" href="#">Contact us</a>
+									</div>
+								</div>
+								
+							</div>
+						</section><!-- End Cta Section -->
+						
+						
+						
+						
+						<!-- ======= Contact Section ======= -->
+						<section id="contact" class="contact">
+							<div class="container">
+								
+								<div class="section-title" data-aos="zoom-out">
+									<h2>Inthere</h2>
+									<p>Contact Us</p>
+								</div>
+								
+								<div class="row mt-5">
+									
+									<div class="col-lg-4" data-aos="fade-right">
+										<div class="info">
+											<div class="address">
+												<i class="bi bi-geo-alt"></i>
+												<h4>Location:</h4>
+												<p>A108 Adam Street, New York, NY 535022</p>
+											</div>
+											
+											<div class="email">
+												<i class="bi bi-envelope"></i>
+												<h4>Email:</h4>
+												<p>info@example.com</p>
+											</div>
+											
+											<div class="phone">
+												<i class="bi bi-phone"></i>
+												<h4>Call:</h4>
+												<p>+1 5589 55488 55s</p>
+											</div>
+											
+										</div>
+										
+									</div>
+									
+									<div class="col-lg-8 mt-5 mt-lg-0" data-aos="fade-left">
+										
+										<form action="forms/contact.php" method="post" role="form" class="php-email-form">
+											<div class="row">
+												<div class="col-md-6 form-group">
+													<input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+												</div>
+												<div class="col-md-6 form-group mt-3 mt-md-0">
+													<input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+												</div>
+											</div>
+											<div class="form-group mt-3">
+												<input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+											</div>
+											<div class="form-group mt-3">
+												<textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+											</div>
+											<div class="my-3">
+												<div class="loading">Loading</div>
+												<div class="error-message"></div>
+												<div class="sent-message">Your message has been sent. Thank you!</div>
+											</div>
+											<div class="text-center"><button type="submit">Send Message</button></div>
+										</form>
+										
+									</div>
+									
+								</div>
+								
+							</div>
+						</section><!-- End Contact Section -->
+						
+					</main><!-- End #main -->
+					
+					<!-- ======= Footer ======= -->
+					<footer id="footer">
+						<div class="container">
+							<h3>Inthere</h3>
+							<p>THE SOUL GYM</p>
+							<div class="social-links">
+								<a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+								<a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+								<a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+								<a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+								<a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+							</div>
+							<div class="copyright">
+								&copy; Copyright <strong><span>Inthere</span></strong>. All Rights Reserved
+							</div>
+							<div class="credits">
+								<!-- All the links in the footer should remain intact. -->
+								<!-- You can delete the links only if you purchased the pro version. -->
+								<!-- Licensing information: https://bootstrapmade.com/license/ -->
+								<!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/selecao-bootstrap-template/ 
+								Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>-->
+							</div>
+						</div>
+					</footer><!-- End Footer -->
+					
+					<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+					
+					<!-- Vendor JS Files -->
+					<script src="assets/vendor/aos/aos.js"></script>
+					<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+					<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+					<script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+					<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+					<script src="assets/vendor/php-email-form/validate.js"></script>
+					
+					<!-- Template Main JS File -->
+					<script src="assets/js/main.js"></script>
+					
+				</body>
+				
+			</html>						
