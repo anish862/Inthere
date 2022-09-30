@@ -57,6 +57,7 @@
 						<li><a class="nav-link scrollto " href="#agenda">Agenda</a></li>
 						<li><a class="nav-link scrollto " href="#aim">Aim</a></li>
 						<li><a class="nav-link scrollto" href="#usp">USP</a></li>
+						<li><a class="nav-link scrollto" href="#prospects">Prospects</a></li>
 						<li><a class="nav-link scrollto" href="#contact">Contact</a></li>
 					</ul>
 					<i class="bi bi-list mobile-nav-toggle"></i>
@@ -71,11 +72,11 @@
 				
 				<!-- Slide 1 -->
 				<div class="carousel-item active">
-					<div style="background-image: url('https://placeimg.com/1200/600/any');width: 100%;height: 500px;">
+					<div style="background-image: url('assets/img/banner/create.jpg');width: 100%;height: 500px;">
 						<div class="carousel-container">
 							<div class="herotxtbanner">
-								<h2 class="animate__animated animate__fadeInDown">Welcome to <span>Inthere</span></h2>
-								<p class="animate__animated fanimate__adeInUp">CREATE</p>
+							<h2 class="animate__animated animate__fadeInDown">CREATE</span></h2>
+						<!--<p class="animate__animated fanimate__adeInUp">CREATE</p>-->
 								
 							</div>
 						</div>
@@ -84,7 +85,7 @@
 				
 				<!-- Slide 2 -->
 				<div class="carousel-item">
-					<div style="background-image: url('https://placeimg.com/1200/600/any');width: 100%;height: 500px;">
+					<div style="background-image: url('assets/img/banner/perform.jpg');width: 100%;height: 500px;">
 						<div class="carousel-container">
 							<div class="herotxtbanner">
 								<h2 class="animate__animated animate__fadeInDown">PERFORM</h2>
@@ -173,7 +174,7 @@
 											<p>
 												IN THERE facilitates Space, Ambience, Amenities, and Resources to help people indulge in the various forms of Art and Meditation.
 											</p>
-											<p>Intricately assembled to alleviate the outer commotion and the inner turmoil, IN THERE is all set to become India's first-ever Soul Gym of its kind.  </p>
+											<p>Intricately assembled to alleviate the outer commotion and the inner turmoil, IN THERE is all set to become India's first-ever Soul Gym of its kind.</p>
 											
 										</div>
 									</div>
@@ -264,7 +265,7 @@
 									<div class="row content" data-aos="fade-up">
 										<div class="col-lg-12">
 											<p>
-											IN THERE is where you find the positivity and the energy to pamper and mend your inner selves. Our services include a Painting Studio, Karaoke Room, Dance Studio, Jam Room, Reading Zone, Counselling Den, and Meditation Room. We believe that the world has much healing to do and that Art and Meditation simplify this process.</p>
+											IN THERE is where you find the positivity and the energy to pamper and mend your inner selves. We believe that the world has much healing to do and that Art and Meditation simplify this process.Our provisions include a Painting Studio, a Karaoke Room, a Dance Studio, a Jam Room, a Reading Zone, a Counselling Den, and a Meditation Room.</p>
 											
 											
 										</div>
@@ -290,7 +291,7 @@
 										
 										<div class="col-lg-4 col-md-6 mt-5 mt-lg-0 ">
 											<div class="icon-box" data-aos="zoom-in-left" data-aos-delay="200">
-												<div style="background-image: url('https://placeimg.com/640/500/any');width: 100%;height: 400px;">
+												<div style="background-image: url('assets/img/services/KARAOKE-ROOM.jpg');width: 100%;height: 400px;background-position-x: 28%;">
 													<h4 class="title" style="background-color: #fff;width: auto;padding: 20px;margin: 10px 0 10px 0;">
 													<a href="">KARAOKE ROOM </a></h4>
 												</div>
@@ -307,7 +308,7 @@
 										
 										<div class="col-lg-4 col-md-6 mt-5">
 											<div class="icon-box" data-aos="zoom-in-left" data-aos-delay="400">
-												<div style="background-image: url('https://placeimg.com/640/500/any');width: 100%;height: 400px;">
+												<div style="background-image: url('assets/img/services/reading-zone.jpg');width: 100%;height: 400px;background-size: cover;background-position: 99%;">
 													<h4 class="title" style="background-color: #fff;width: auto;padding: 20px;margin: 10px 0 10px 0;">
 													<a href="">READING ZONE</a></h4>
 												</div>
@@ -337,9 +338,7 @@
 								
 								<div class="row content" data-aos="fade-up">
 									<div class="col-lg-12">
-										<p>IN THERE is an Open Art and Meditation Studio. Our activities here are not predefined. We do not teach, host competitions or arrange exhibitions and neither do we decide the purpose of your visit. Our Agenda is simple, Relaxation, Recreation, and Mental Peace.
-
-											
+										<p>IN THERE is an Open Art and Meditation Studio.Our activities here are not predefined. We do not teach, host competitions, arrange exhibitions, or decide the purpose of your visit.Our Agenda is simple, Relaxation, Recreation, and Mental Peace.											
 										</p>
 										
 									</div>
@@ -401,9 +400,9 @@
 									<div class="row content" data-aos="fade-up">
 										<div class="col-lg-12">
 											<p>
-												IN THERE believes that the best way to liberate Mental Health from the stigma, inhibitions, and taboos is to bring it out in the open!
+												IN THERE believes that the best way to liberate Mental Health from the stigma, inhibitions, and taboos around it, is to bring it out in the open!
 											</p>
-											<p>We aim to make Mental Health Aid More Accessible, Approachable, and Affordable. Our one-step toward prioritizing Mental Fitness would etch directions for future generations.
+											<p>Therefore, in an attempt to make mental health aid more accessible, approachable, and affordable, IN THERE offers Psychological Counselling and Mental Health and Fitness Talks in its Studios. A team of experienced psychologists, mental health advocates, influential speakers, mental fitness trainers and lifestyle coaches has been put together to help you process your emotions with utmost care and support.
 											</p>
 											
 										</div>
@@ -465,7 +464,7 @@ font-weight: bold;">To make Mental Health Aid More Accessible, Approachable, and
 									<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
 										<div class="member" data-aos="fade-up">
 											<div class="member-img">
-												<img src="https://placeimg.com/400/400/any" class="img-fluid" alt="">
+												<img src="assets/img/services/INNOVATIVE.jpg" class="img-fluid" alt="">
 												
 											</div>
 											<div class="member-info">
@@ -589,12 +588,12 @@ font-weight: bold;">To make Mental Health Aid More Accessible, Approachable, and
 						
 						
 						<!-- ======= Services Section ======= -->
-							<section id="services" class="services">
+							<section id="prospects" class="services">
 								<div class="container">
 									
 									<div class="section-title" data-aos="zoom-out">
 										<h2>Inthere</h2>
-										<p>Services</p>
+										<p>Prospects</p>
 									</div>
 									
 									<div class="row content" data-aos="fade-up">
